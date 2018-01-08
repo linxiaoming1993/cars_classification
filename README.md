@@ -9,4 +9,4 @@
 
 2. [train.ipynb]()是模型训练的过程。
 
-3. [predict.py]()是模型预测的过程。
+3. [predict.py](https://github.com/linxiaoming1993/cars_classification/blob/master/predict.py)是模型预测的过程。
